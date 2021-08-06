@@ -22,6 +22,7 @@ public class Drink {
         this.imageResourceId = imageResourceId;
     }
 
+     //Get the description, name and image
     public String getDescription(){
         return  description;
     }
